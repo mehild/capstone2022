@@ -15,21 +15,21 @@ footer{
     text-align: center;
 }
 footer ul{
-margin: 0px;
-  padding:0;
+    margin: 0px;
+    padding:0;
 }
 footer li {
-  /*  float: left;  */
     list-style-type: none;
     line-height: 9px;
     height: 11px;
     border-right: 1px solid #000000;
     border-left: 1px solid #000000;
     padding: 0px 10px;
-  display:inline;
+    display:inline;
 }
 footer li a{
+    font-family: Arial, sans-serif;
     text-decoration: none;
     color: #000000;
-    font-size: 14px;
+    font-size: 16px;
 }
