@@ -33,3 +33,9 @@ footer li a{
     color: #000000;
     font-size: 16px;
 }
+.link { 
+    color: #000000; 
+} 
+.link:hover { 
+    color: #ff009d; 
+} 
