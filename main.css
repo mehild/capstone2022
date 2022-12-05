@@ -6,3 +6,29 @@ img {
 body {
     background-color: #fdddf1;
 }
+footer{
+    background: #fdddf1;
+    margin: 0 auto;
+    height: 30px;
+    padding-top: 20px;
+    width: 100%;
+    text-align: center;
+}
+footer ul{
+margin: 0px;
+  padding:0;
+}
+footer li {
+  /*  float: left;  */
+    list-style-type: none;
+    line-height: 9px;
+    height: 11px;
+    border-right: 1px solid #000000;
+    padding: 0px 10px;
+  display:inline;
+}
+footer li a{
+    text-decoration: none;
+    color: #000000;
+    font-size: 14px;
+}
